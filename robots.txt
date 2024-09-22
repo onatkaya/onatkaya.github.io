@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://onatkaya.github.io/sitemap.xml
+Sitemap: /sitemap.xml
